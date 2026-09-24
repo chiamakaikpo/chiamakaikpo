@@ -22,4 +22,4 @@ I connect how a business works with what its data and systems need to do: turnin
 
 ### Contact
 
-Email: [chiamakaikpo@gmail.com](mailto:chiamakaikpo@gmail.com) · Portfolio: [chiamakaikpo.github.io](https://chiamakaikpo.github.io)
+Email: [chiamakaikpo@gmail.com](mailto:chiamakaikpo@gmail.com) · LinkedIn: [chiamaka-ikpo](https://linkedin.com/in/chiamaka-ikpo-70365aba/) · Portfolio: [chiamakaikpo.github.io](https://chiamakaikpo.github.io)
