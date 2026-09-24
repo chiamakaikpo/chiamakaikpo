@@ -1,6 +1,6 @@
 ## Hi, I'm Chiamaka
 
-I'm a **business analyst** with a background in **supply chain planning and procurement**. I've worked in inventory planning, deployment and replenishment at AB InBev and in procurement at Access Bank. I also hold an **Masters in Computing** from the University of Bolton, where I built a machine-learning decision support framework for inventory replenishment.
+I'm a **business analyst** with a background in **Supply Chain planning and Procurement**. I've worked in inventory planning, deployment and replenishment at AB InBev and in procurement at Access Bank. I also hold an **Masters in Computing** from the University of Bolton, where I built a machine-learning decision support framework for inventory replenishment.
 
 I connect how a business works with what its data and systems need to do, turning operational problems into clear requirements, KPIs and data-backed decisions.
 
