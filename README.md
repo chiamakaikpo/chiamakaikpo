@@ -12,6 +12,7 @@ I connect how a business works with what its data and systems need to do, turnin
 |---|---|
 | [**BA portfolio**](https://chiamakaikpo.github.io) | Case studies in process improvement, requirements (user stories, RACI), dashboard design and ML decision support |
 | [**ML demand shock prediction**](https://github.com/chiamakaikpo/ml-demand-shock-replenishment) | My MRes dissertation: Random Forest vs. XGBoost vs. LightGBM predicting demand shocks, driving an adaptive replenishment policy that cut stockouts by 18.5% |
+| [**Sustainable supplier selection**](https://github.com/chiamakaikpo/sustainable-supplier-selection-ml) | Explainable ML for procurement: a Random Forest that classifies suppliers on sustainability (89.7% accuracy) and shows which factors drive the decision |
 | [**SQL: Data analyst job market**](https://github.com/chiamakaikpo/sql-data-analyst-job-market) | PostgreSQL analysis of 2023 job postings, with my own comparison of UK data vs. business analyst skills |
 
 ### Skills
