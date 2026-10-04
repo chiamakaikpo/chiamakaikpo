@@ -4,7 +4,7 @@ I'm a **business analyst** with a background in **Supply Chain planning and Proc
 
 I connect how a business works with what its data and systems need to do, turning operational problems into clear requirements, KPIs and data-backed decisions.
 
-**Based in:** Greater Manchester, UK · **Looking for:** Business/Data/Supplychain Analyst roles
+**Based in:** Greater Manchester, UK · **Looking for:** Business/Data/Supplychain Analyst and Supplychain planning roles
 
 ### Projects
 
