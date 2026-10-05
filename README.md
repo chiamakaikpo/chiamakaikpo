@@ -1,23 +1,26 @@
 ## Hi, I'm Chiamaka
 
-I'm a **business analyst** with a background in **Supply Chain planning and Procurement**. I've worked in Materials planning (MRP), inventory planning, deployment and replenishment at AB InBev and in procurement at Access Bank. I also hold an **Masters in Computing** from the University of Bolton, where I built a machine-learning decision support framework for inventory replenishment planning.
+I'm a **business analyst** with a background in **Supply Chain planning and Procurement**. I've worked in Materials planning (MRP), inventory planning, deployment and replenishment at AB InBev and in procurement at Access Bank. I also hold a **Master's (MRes) in Computing** from the University of Bolton, where I built a machine-learning decision support framework for inventory replenishment planning.
 
 I connect how a business works with what its data and systems need to do, turning operational problems into clear requirements, KPIs and data-backed decisions.
 
-**Based in:** Greater Manchester, UK · **Looking for:** Business/Data/Supplychain Analyst and Supplychain planning roles
+**Based in:** Greater Manchester, UK · **Looking for:** Business Analyst, Data Analyst, Supply Chain Analyst and Supply Chain Planning roles
 
 ### Projects
 
 | Project | What it shows |
 |---|---|
 | [**BA portfolio**](https://chiamakaikpo.github.io) | Case studies in process improvement, requirements (user stories, RACI), dashboard design and ML decision support |
+| [**Supplier & inventory dashboard**](https://github.com/chiamakaikpo/supplier-inventory-dashboard) · [live demo](https://chiamakaikpo.github.io/supplier-inventory-dashboard/) | Stakeholder questions turned into a KPI dictionary, star schema, SQL, DAX and a working dashboard that links supplier OTIF to stockouts |
+| [**Procure-to-pay requirements**](https://github.com/chiamakaikpo/procure-to-pay-requirements) | A full requirements pack: BRD, BPMN as-is/to-be maps, user stories with acceptance criteria, RACI, traceability matrix and UAT test cases |
+| [**Inventory deployment planner**](https://github.com/chiamakaikpo/inventory-deployment-planner) | Business rules for deploying stock to depots, built into a rule-based Excel planner with BPMN maps and automated checks |
 | [**ML demand shock prediction**](https://github.com/chiamakaikpo/ml-demand-shock-replenishment) | My MRes dissertation: Random Forest vs. XGBoost vs. LightGBM predicting demand shocks, driving an adaptive replenishment policy that cut stockouts by 18.5% |
 | [**Sustainable supplier selection**](https://github.com/chiamakaikpo/sustainable-supplier-selection-ml) | Explainable ML for procurement: a Random Forest that classifies suppliers on sustainability (89.7% accuracy) and shows which factors drive the decision |
 | [**SQL: Data analyst job market**](https://github.com/chiamakaikpo/sql-data-analyst-job-market) | PostgreSQL analysis of 2023 job postings, with my own comparison of UK data vs. business analyst skills |
 
 ### Skills
 
-- **Business analysis:** requirements elicitation, user stories and acceptance criteria, as-is/to-be process mapping, stakeholder analysis, RACI
+- **Business analysis:** requirements elicitation, user stories and acceptance criteria, as-is/to-be process mapping (BPMN), stakeholder analysis, RACI, traceability and UAT
 - **Data:** SQL (PostgreSQL), Power BI, Excel, Python (pandas, scikit-learn)
 - **Systems and domain:** SAP S/4HANA, MRP, inventory policy, procure-to-pay, vendor management
 - **Currently studying:** CIPS Level 4 Diploma in Procurement and Supply
