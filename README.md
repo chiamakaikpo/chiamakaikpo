@@ -10,7 +10,6 @@ I connect how a business works with what its data and systems need to do, turnin
 
 | Project | What it shows |
 |---|---|
-| [**BA portfolio**](https://chiamakaikpo.github.io) | Case studies in process improvement, requirements (user stories, RACI), dashboard design and ML decision support |
 | [**Supplier & inventory dashboard**](https://github.com/chiamakaikpo/supplier-inventory-dashboard) · [live demo](https://chiamakaikpo.github.io/supplier-inventory-dashboard/) | Stakeholder questions turned into a KPI dictionary, star schema, SQL, DAX and a working dashboard that links supplier OTIF to stockouts |
 | [**Procure-to-pay requirements**](https://github.com/chiamakaikpo/procure-to-pay-requirements) | A full requirements pack: BRD, BPMN as-is/to-be maps, user stories with acceptance criteria, RACI, traceability matrix and UAT test cases |
 | [**Inventory deployment planner**](https://github.com/chiamakaikpo/inventory-deployment-planner) | Business rules for deploying stock to depots, built into a rule-based Excel planner with BPMN maps and automated checks |
