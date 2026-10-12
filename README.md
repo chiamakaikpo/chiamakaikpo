@@ -19,10 +19,8 @@ I connect how a business works with what its data and systems need to do, turnin
 
 ### Skills
 
-- **Business analysis:** requirements elicitation, user stories and acceptance criteria, as-is/to-be process mapping (BPMN), stakeholder analysis, RACI, traceability and UAT
 - **Data:** SQL (PostgreSQL), Power BI, Excel, Python (pandas, scikit-learn)
 - **Systems and domain:** SAP S/4HANA, MRP, inventory policy, procure-to-pay, vendor management
-- **Currently studying:** CIPS Level 4 Diploma in Procurement and Supply
 
 ### Contact
 
